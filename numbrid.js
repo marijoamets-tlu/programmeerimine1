@@ -1,5 +1,5 @@
 var a = 1;
-var b = "2";
+var b = "3";
 
 if(typeof b == "string") {
     b = parseInt(b); //täisarvuks teisendamine. vt ka parseFloat
